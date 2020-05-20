@@ -1,0 +1,17 @@
+﻿#include @"main.ph"
+
+% privately used packages
+#include @"pfc\std\std.ph"
+#include @"pfc\collection\M\varM\varM.ph"
+#include @"pfc\application\Exe\exe.ph"
+#include @"depth\depth.ph"
+#include @"pfc\string\string.ph"
+#include @"pfc\list\list.ph"
+#include @"pfc\commandLineParser\commandLineParser.ph"
+#include @"pfc\console\console.ph"
+#include @"pfc\core.ph"
+
+% private interfaces
+% private classes
+% implementations
+#include @"main.pro"
